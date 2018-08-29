@@ -27,14 +27,15 @@ Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Contr
 ### Class 02
 - What is Firmata?
 - Communicating between Arduino and Processing
-- Mapping
+- Mapping, Constrain
 
 ### Class 03
 - Controlling Outputs
-- If Statements
-- Booleans
+- If Statements and Booleans
+- Momentary and Latching logic
 
 ### Class 04
 - Advanced Audio Visual Outputs
-- Audio triggers
-- Video triggers
+- Gain, pan, samples
+- Frame scrubbing,colour control
+- Advanced graphical output eg: PVectors. 
