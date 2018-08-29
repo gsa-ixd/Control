@@ -23,11 +23,14 @@ The project is based around the keyword **control** and you should consider this
 - Analog Outputs
 
 Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Control/tree/master/Class01)
+**Homework** : Find an existing Processing sketch you made last year that utilises the mouse movement or keypress function. Make sure you have it available for class 02.  
 
 ### Class 02
 - What is Firmata?
 - Communicating between Arduino and Processing
 - Mapping, Constrain
+
+**Homework** : Watch this video on ...
 
 ### Class 03
 - Controlling Outputs
