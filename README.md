@@ -7,7 +7,7 @@ Y2 physical computing project resources
 - Digital Outputs
 - Analog Outputs
 
-Circuit diagrams can be found here: 
+Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Control/tree/master/Class01)
 
 ### Class 02
 - What is Firmata?
