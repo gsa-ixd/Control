@@ -1,11 +1,8 @@
 # Control
 
-**Tutor:** Jen Sykes
-
-**Institue:** Glasgow School of Art
-
-**Year:** 2
-
+**Tutor:** Jen Sykes<br>
+**Institue:** Glasgow School of Art<br>
+**Year:** 2<br>
 **Software** Arduino, Processing
 
 
