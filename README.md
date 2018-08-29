@@ -24,23 +24,27 @@ The project is based around the keyword **control** and you should consider this
 
 Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Control/tree/master/Class01)<br>
 
-**Homework** : Find an existing Processing sketch you made last year that utilises the mouse movement or keypress function. Make sure you have it available for class 02.  
+**Homework** : Look at the [Interaction](http://learningprocessing.com/examples/chp03/example-03-02-mouseX-mouseY) example then find or adapt an existing Processing sketch you made last year to utilises the mouse movement. Make sure you have it available for class 02.  
 
 ### Class 02
 - What is Firmata?
 - Communicating between Arduino and Processing
-- Mapping, Constrain
-<br>
+- Mapping, Constrain<br>
 
-**Homework** : Watch this video on ...
+**Homework** : Look at the [Hold Button](http://learningprocessing.com/examples/chp05/example-05-04-holdbutton) and [Switch Button](http://learningprocessing.com/examples/chp05/example-05-05-switchbutton)example then find or adapt an existing Processing sketch you made last year to utilises the mousePress or keyPress function. Make sure you have it available for class 03.
 
 ### Class 03
 - Controlling Outputs
 - If Statements and Booleans
 - Momentary and Latching logic
+- Joining up Arduino circuits to Processing sketches<br>
+
+**Homework** : Continue working on adapting existing Processing sketches from Y1. Try to join elements together by using Firmata to replace mouse and key functions with sliders and buttons. Make sure you bring the circuit you have worked on to class 04.
 
 ### Class 04
 - Advanced Audio Visual Outputs
 - Gain, pan, samples
 - Frame scrubbing,colour control
-- Advanced graphical output eg: PVectors. 
+- Advanced graphical output eg: PVectors. <br>
+
+**Homework** : This is the last of the practical workshops. take what you know and adapt the techniques to your own ideas and contexts. Check the canvas calendar for Sign-up Tutorial slots and Reviews.
