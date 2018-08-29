@@ -30,10 +30,11 @@ Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Contr
 - Mapping
 
 ### Class 03
-- 
-- 
--
+- Controlling Outputs
+- If Statements
+- Booleans
+
 ### Class 04
-- 
-- 
--
+- Advanced Audio Visual Outputs
+- Audio triggers
+- Video triggers
