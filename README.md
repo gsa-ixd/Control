@@ -21,6 +21,7 @@ The project is based around the keyword **control** and you should consider this
 - Arduino 101
 - Digital Outputs
 - Analog Outputs
+- Serial Monitor
 
 Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Control/tree/master/Class01)<br>
 
