@@ -44,8 +44,8 @@ Circuit diagrams png files can be found [here:](https://github.com/gsa-ixd/Contr
 
 ### Class 04
 - Advanced Audio Visual Outputs
-- Gain, pan, samples
-- Frame scrubbing,colour control
-- Advanced graphical output eg: PVectors. <br>
+- Audio – dynamic gain, pan, rate, sample triggering
+- Video control dynamic frame scrubbing, colour control, filters
+- Combining multiple sketches into 1 scene using PGraphics<br>
 
 **Homework** : This is the last of the practical workshops. take what you know and adapt the techniques to your own ideas and contexts. Check the canvas calendar for Sign-up Tutorial slots and Reviews.
