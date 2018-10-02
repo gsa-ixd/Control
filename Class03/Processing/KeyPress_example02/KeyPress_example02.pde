@@ -1,4 +1,9 @@
-
+/*
+Example by jen Sykes
+Demonstrates a latching button effect with a keyPress
+Refencing the keyPress example 
+https://processing.org/reference/keyPressed_.html
+*/
 
 color off = color(24, 79, 111);
 color on = color(184, 145, 158);

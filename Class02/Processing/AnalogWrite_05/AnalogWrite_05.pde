@@ -1,4 +1,10 @@
-// Example 3-2: mouseX and mouseY
+/*
+Example by jen Sykes
+Built from the arduino inputs Example in Processing
+Reads one analog value and animates a rectangle with it. 
+explores further mapping structures, using simple arrays 
+and cycling through them with a slider. 
+*/
 import processing.serial.*;
 
 import cc.arduino.*;

@@ -1,3 +1,8 @@
+/*
+Simple analogWrite Example
+imitating blink action but in analog outputs
+*/
+
 void setup() {
   // put your setup code here, to run once:
   // initialize the digital pin as an output.

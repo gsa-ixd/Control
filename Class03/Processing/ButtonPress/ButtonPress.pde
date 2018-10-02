@@ -1,3 +1,10 @@
+/*
+Example by jen Sykes
+Built from the arduino inputs Example in Processing
+Reads one digital input and animates a rectangle with it. 
+
+*/
+
 import processing.serial.*;
 
 import cc.arduino.*;

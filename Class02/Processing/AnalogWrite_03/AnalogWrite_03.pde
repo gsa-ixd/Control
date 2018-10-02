@@ -1,4 +1,9 @@
-// Example 3-2: mouseX and mouseY
+/*
+Example by jen Sykes
+Built from the arduino inputs Example in Processing
+Reads two analog value and maps their outputs to two differing results. 
+
+*/
 import processing.serial.*;
 
 import cc.arduino.*;

@@ -1,3 +1,12 @@
+/*
+Example by jen Sykes
+Built from the arduino inputs Example in Processing
+Reads one digital input and animates a rectangle with it. 
+Demonstrates how to use code logic to create a latching button effect.
+Boolean code method refeneced from Paul Maguire's latching code 2017
+
+Use the buttonPress method to cycle through a simple array of words. 
+*/
 import processing.serial.*;
 
 import cc.arduino.*;
