@@ -3,7 +3,7 @@
 **Tutor:** Jen Sykes<br>
 **Institue:** Glasgow School of Art<br>
 **Year:** 2<br>
-**Software** Arduino, Processing
+**Software** [Arduino](https://www.arduino.cc/en/Main/Software), [Ardublockly](https://ardublockly.embeddedlog.com/demo/index.html), [Processing](https://processing.org/download/)
 
 
 ## Overview
