@@ -10,7 +10,6 @@ import processing.sound.*;
 
 SoundFile soundfile;  //our sound we will use
 Delay delay; // this is the Delay we are creating to manage the processing of the sound
-// Delay is 
 
 
 void setup() {
